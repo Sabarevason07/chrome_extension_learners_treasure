@@ -139,6 +139,10 @@ Screenshots:
 <img width="491" height="738" alt="image" src="https://github.com/user-attachments/assets/6c6c9b3e-fdda-4174-8d28-2b95fd0bae39" />
 
 
+
+
+
+
 2. Transcript Section
 ![WhatsApp Image 2025-12-14 at 16 12 56](https://github.com/user-attachments/assets/b75ab0df-8cc9-4748-9f6a-cf3c85d8fbc0)
 
