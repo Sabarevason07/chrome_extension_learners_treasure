@@ -137,10 +137,16 @@ Screenshots:
 
 1. popup screen
 <img width="496" height="737" alt="image" src="https://github.com/user-attachments/assets/f5fcfc7e-d740-4093-9cec-72af34ee769a" />
+
+
 2. Transcript Section
 ![WhatsApp Image 2025-12-14 at 16 12 56](https://github.com/user-attachments/assets/b75ab0df-8cc9-4748-9f6a-cf3c85d8fbc0)
+
+
 3. Summarize Section
 ![WhatsApp Image 2025-12-14 at 16 29 32](https://github.com/user-attachments/assets/8afe43ef-d691-4612-9aa3-08cc0f0faa90)
+
+
 4. AI quiz
 ![WhatsApp Image 2025-12-14 at 16 29 23](https://github.com/user-attachments/assets/467c1b2c-6c87-42aa-88e9-93b758138bf9)
 
