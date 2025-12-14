@@ -136,7 +136,7 @@ Web development labs
 Screenshots:
 
 1. popup screen
-<img width="496" height="737" alt="image" src="https://github.com/user-attachments/assets/f5fcfc7e-d740-4093-9cec-72af34ee769a" />
+<img width="491" height="738" alt="image" src="https://github.com/user-attachments/assets/6c6c9b3e-fdda-4174-8d28-2b95fd0bae39" />
 
 
 2. Transcript Section
