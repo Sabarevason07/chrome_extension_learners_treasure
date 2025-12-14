@@ -1,0 +1,99 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  width: 360px;              /* wider popup */
+  padding: 10px;
+  background: #f4f6fb;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+button {
+  width: 100%;
+  margin: 6px 0;
+  padding: 9px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+#output {
+  margin-top: 10px;
+  padding: 10px;
+
+  /* 🔥 IMPORTANT FIX */
+  height: 420px;             /* increased height */
+  max-height: 420px;
+  overflow-y: auto;          /* scroll instead of cut */
+
+  background: white;
+  border-radius: 6px;
+  font-size: 13px;
+  white-space: pre-wrap;     /* keep formatting */
+  line-height: 1.5;          /* better readability */
+}
+
+footer {
+  text-align: center;
+  font-size: 11px;
+  color: gray;
+  margin-top: 6px;
+}
+.quiz-question {
+  margin-top: 8px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.quiz-options {
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.quiz-options label {
+  display: block;
+  cursor: pointer;
+  margin: 2px 0;
+  font-size: 12px;
+}
+
+input[type="radio"] {
+  transform: scale(0.9);   /* smaller radio */
+  margin-right: 4px;
+}
+
+.result-good {
+  color: green;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.result-bad {
+  color: red;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.correct-option {
+  color: green;
+  font-weight: bold;
+}
+
+.wrong-option {
+  color: red;
+  font-weight: bold;
+}
+
+.answer-tag {
+  font-size: 11px;
+  margin-left: 6px;
+}
